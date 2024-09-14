@@ -2,8 +2,8 @@
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: Ela/Dela
+- 📫 How to reach me 62986305364
+- 😄 Pronouns: She
 - ⚡ Fun fact: ...
 
 <!---
